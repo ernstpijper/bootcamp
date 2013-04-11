@@ -7,4 +7,5 @@ Abstract
 Introduction
 	We will introduce the benefits of using revision control.
 Conclusion
+	Git's the BOMB!
 References
