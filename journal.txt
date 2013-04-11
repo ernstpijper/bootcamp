@@ -1,5 +1,7 @@
 Title
+	An EGI Forum Software Carpentry HighLight
 Author
+	Ernst Pijper
 Abstract
 Introduction
 Conclusion
