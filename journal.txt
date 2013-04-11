@@ -3,6 +3,8 @@ Title
 Author
 	Ernst Pijper
 Abstract
+	In this paper we present an introduction to revision control.
 Introduction
+	We will introduce the benefits of using revision control.
 Conclusion
 References
